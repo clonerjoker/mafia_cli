@@ -1,4 +1,4 @@
-# mafia_bot
+# mafia_bot. Joker
 ```
 git clone https://github.com/mafia-007/mafia_cli
 
